@@ -1,0 +1,11 @@
+{
+	"typescript.experimental.syntaxFolding": true,
+	"typescript.implementationsCodeLens.enabled": true,
+	"javascript.referencesCodeLens.enabled": true,
+
+	"files.exclude": {
+		"node_modules/": true,
+		"dist/": true,
+		".sourcemaps/": true,
+	}
+}
